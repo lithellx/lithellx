@@ -7,7 +7,7 @@
 #
 
 ### Spotify Playing :notes:
-[![Spotify](https://lithellx.vercel.app/api/spotify)](https://open.spotify.com/user/lithellx)
+[![Spotify](https://lithellx.vercel.app/api/spotify)](https://open.spotify.com/user/zhpqbj0kr3pzs9prnzl3wd0m8)
 <br/>
 <h2>
 
