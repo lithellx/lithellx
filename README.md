@@ -4,7 +4,7 @@
 ### Partivo Company Founder
 <font color="red">Test :heart: </font>
 
-### Spotify Playing :notes:
+### Litening to Spotify :notes:
 [![Spotify](https://lithellx-lithellx.vercel.app/api/spotify)](https://open.spotify.com/user/zhpqbj0kr3pzs9prnzl3wd0m8)
 
 ### <img src="x" width="50"> About me
