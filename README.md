@@ -2,8 +2,8 @@
 
 <img align='right' src="https://i.hizliresim.com/pnl6q0w.png" width="230">
 
-### Founder & CEO at Partivo Company
-<font color="red">Test </em> `<feature>` :heart: </font>
+### Partivo Company Founder
+<font color="red">Test :heart: </font>
 #
 
 ### Spotify Playing :notes:
