@@ -5,7 +5,7 @@
 <font color="red">Test :heart: </font>
 
 ### Spotify Playing :notes:
-[![Spotify](https://lithellx.vercel.app/api/spotify)](https://open.spotify.com/user/zhpqbj0kr3pzs9prnzl3wd0m8)
+[![Spotify](https://lithellx-lithellx.vercel.app/api/spotify)](https://open.spotify.com/user/zhpqbj0kr3pzs9prnzl3wd0m8)
 
-### <img src="" width="50"> About me
+### <img src="x" width="50"> About me
 <font color="red">Test :heart: </font>
