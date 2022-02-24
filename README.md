@@ -1,5 +1,5 @@
 <h2> lithellx </h2>
-<br><img align='right' src="https://i.hizliresim.com/pnl6q0w.png" width="230">
+<img align='right' src="https://i.hizliresim.com/pnl6q0w.png" width="230">
 
 ### Partivo Company Founder
 <font color="red">Test :heart: </font>
