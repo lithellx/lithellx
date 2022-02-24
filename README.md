@@ -1,4 +1,4 @@
-<h2> Hi, this is lithellx <img src="https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif" width="75"></h2>
+<h2> lithellx <img src="https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://i.hizliresim.com/pnl6q0w.png" width="230">
 
