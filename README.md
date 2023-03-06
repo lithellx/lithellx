@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [dbLoader Project](https://github.com/lithellx/dbLoader)
 
-- 🌱 I’m currently learning **C, VC++, QtC++, C#, Js, Java, ABAP**
+- 🌱 I’m currently learning **C, Visual C++, Qt C++, C#, Js, Java, ABAP**
 
-- 💬 Ask me about **C++, C#**
+- 💬 Ask me about **C++, Qt, C#**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/lithellx?tab=repositories)
 
