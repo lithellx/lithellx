@@ -18,7 +18,7 @@
 <a href="https://twitter.com/alpunlx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpunlx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alp-ünal-56305b253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alp-ünal-56305b253/" height="30" width="40" /></a>
 <a href="https://instagram.com/alpunlx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alpunlx/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@lithellx5331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lithellx5331" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@lithellx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lithellx" height="30" width="40" /></a>
 <a href="https://discord.gg/vXqY8PHMg2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vXqY8PHMg2" height="30" width="40" /></a>
 </p>
 
