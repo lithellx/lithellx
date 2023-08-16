@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RiotLogin Project](https://github.com/lithellx/RiotLogin)
 
-- 🌱 I’m currently learning **C, Visual C++, Qt C++, C#, Js, Java, ABAP**
+- 🌱 I’m currently learning **C, Visual C++, Qt C++, C#, Js, Java, SQL**
 
 - 💬 Ask me about **C++, Qt, C#**
 
