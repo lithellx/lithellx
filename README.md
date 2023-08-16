@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lithellx" alt="lithellx" /></a> </p>
 
-- 🔭 I’m currently working on [dbLoader Project](https://github.com/lithellx/dbLoader)
+- 🔭 I’m currently working on [RiotLogin Project](https://github.com/lithellx/RiotLogin)
 
 - 🌱 I’m currently learning **C, Visual C++, Qt C++, C#, Js, Java, ABAP**
 
