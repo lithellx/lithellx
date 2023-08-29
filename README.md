@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alp</h1>
 <h3 align="center">I like coding and developing.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lithellx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lithellx" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lithellx&label=Profile%20views&color=0e75b6&style=for-the-badge&theme=dark" alt="lithellx" /> </p>
 
 <p align="center"> <a href="https://github.com/lithellx"><img src="https://github-profile-trophy.vercel.app/?username=lithellx" alt="lithellx" /></a> </p>
 
@@ -72,6 +72,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithellx&show_icons=true&locale=en&layout=compact" alt="lithellx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lithellx&show_icons=true&locale=en&layout=compact&theme=dark" alt="lithellx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithellx&show_icons=true&locale=en" alt="lithellx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lithellx&show_icons=true&locale=en&theme=dark" alt="lithellx" /></p>
