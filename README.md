@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/lithellx"><img src="https://github-profile-trophy.vercel.app/?username=lithellx" alt="lithellx" /></a> </p>
 
-- 🔭 I’m currently working on [RiotLogin Project](https://github.com/lithellx/RiotLogin)
+- 🔭 I’m currently working on [LeagueProject](https://github.com/lithellx/LeagueProject)
 
 - 🌱 I’m currently learning **Js, Java, X++**
 
