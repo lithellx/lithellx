@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LeagueProject](https://github.com/lithellx/LeagueProject)
 
-- 🌱 I’m currently learning **Js, Java, X++**
+- 🌱 I’m currently learning **Flutter, X++**
 
 - 💬 Ask me about **C++, Qt, C#**
 
