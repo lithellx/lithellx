@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, X++**
 
-- 💬 Ask me about **C++, Qt, C#**
+- 💬 Ask me about **C++, C#**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/lithellx?tab=repositories)
 
