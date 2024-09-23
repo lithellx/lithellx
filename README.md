@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LeagueProject](https://github.com/lithellx/LeagueProject)
 
-- 🌱 I’m currently learning **Dynamics 365 & AX, X++**
+- 🌱 I’m currently learning **Dynamics AX, 365 F&O and X++**
 
 - 💬 Ask me about **C++, C#**
 
