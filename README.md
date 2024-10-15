@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm Alp</h1>
-<h3 align="center">Founder of Partivo Company</h3>
+<h1 align="center">Alp Unal</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lithellx&label=Profile%20views&color=0e75b6&style=for-the-badge&theme=dark" alt="lithellx" /> </p>
 
 <p align="center"> <a href="https://github.com/lithellx"><img src="https://github-profile-trophy.vercel.app/?username=lithellx" alt="lithellx" /></a> </p>
 
-- 🔭 I’m currently working on [LeagueProject](https://github.com/lithellx/LeagueProject)
+- 🔭 My last project [LeagueProject](https://github.com/lithellx/LeagueProject)
 
-- 🌱 I’m currently learning **Dynamics AX, 365 F&O and X++**
+- 🌱 I’m currently learning **Dynamics AX, 365 F&O**
 
 - 💬 Ask me about **C++, C#**
-
-- 👨‍💻 All of my projects are available at [here](https://github.com/lithellx?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
